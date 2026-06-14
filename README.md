@@ -7,6 +7,13 @@ Official implementation of **Metis**.
 
 The source code, pretrained models, and documentation will be released upon paper acceptance.
 
+## Framework
+
+<p align="center">
+  <img src="assets/pipeline.png" width="90%">
+</p>
+
+
 ## Planned Release
 
 * [ ] Training code
