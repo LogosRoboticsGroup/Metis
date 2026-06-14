@@ -16,14 +16,13 @@ The source code, pretrained models, and documentation are being prepared and are
 
 ## Release Roadmap
 
-* [x] Project repository
-* [ ] Paper release
+* [x] Paper release
 * [ ] Training code
 * [ ] Inference code
 * [ ] Pretrained checkpoints
 * [ ] Documentation and tutorials
 
-**Tentative timeline:** We aim to release the first version of the codebase within approximately two months after paper acceptance.
+The codebase is currently being cleaned, documented, and reorganized for public release. Components of the project will be gradually released as they become ready.
 
 ## Citation
 
