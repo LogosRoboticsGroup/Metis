@@ -237,8 +237,6 @@ This repository is under active development. The full open-source release is pla
 - [ ] Evaluation scripts
 - [ ] NAVSIM-v2 data preparation guide
 - [ ] CityWalker data preparation guide
-- [ ] Pretrained checkpoints
-- [ ] Documentation
 
 ## Model Zoo
 
