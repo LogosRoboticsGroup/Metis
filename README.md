@@ -14,7 +14,7 @@ Jingyu Li<sup>1,2,&ast;</sup>, Zhe Liu<sup>3,&ast;</sup>, Dongnan Hu<sup>4,2</su
 
 **Equal contribution:** Jingyu Li and Zhe Liu. **Corresponding author:** Li Zhang.
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Metis.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.15869-b31b1b.svg)](https://arxiv.org/abs/2606.15869)
 [![Code](https://img.shields.io/badge/Code-Coming%20Soon-lightgrey)](#planned-release)
 [![Models](https://img.shields.io/badge/Models-Coming%20Soon-lightgrey)](#model-zoo)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
